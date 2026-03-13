@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonali Kumari</h1>
-<h3 align="center">A passionate MERN stack developer with a strong foundation in machine learning.</h3>
+<h3 align="center">A passionate MERN stack developer.</h3>
 
 - 📫 How to reach me **sonalikumari704241@gmail.com**
 
